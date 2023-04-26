@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-bruno
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: a80aac8c09734785a4c2b54be42181df
+  SUBSCRIPTION-ID: a80aac8c-0973-4785-a4c2-b54be42181df
   WEBAPP-NAME: az400-webapp-brunomeloalmeida
 
 
